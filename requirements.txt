@@ -1,0 +1,7 @@
+numpy
+opencv-python
+Pillow
+requests
+python-telegram-bot
+ipywidgets
+jupyter
